@@ -3,10 +3,10 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Ejercicio ejemplo</title>
+    <title>PUNTO 4</title>
   </head>
   <body>
-    <h1>Listado de clientes con limite de credito mayor a 50000:</h1>
+    <h1 align="center">Listado de clientes ordenados por % descuento</h1>
     <table>
       <thead>
         <tr>
